@@ -39,9 +39,3 @@ The following fields are populated automatically from Active Directory / Azure A
 | `{Title}` | Job title |
 | `{PhoneNumber}` | Phone number |
 | `{Email}` | Email address |
-
----
-
-## Disclaimer
-
-The confidentiality notice at the bottom of the signature (`Stainguard International Pty Ltd.`) should be updated to the correct legal entity name before deployment.
